@@ -1,0 +1,14 @@
+[
+    {
+        "date": "04-06-2026",
+        "category": "vegetable",
+        "description": "potato",
+        "amount": 100.0
+    },
+    {
+        "date": "04-06-2026",
+        "category": "vegetable",
+        "description": "onion",
+        "amount": 100.0
+    }
+]
